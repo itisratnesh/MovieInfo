@@ -1,8 +1,0 @@
-Here is your key: a6d427ed
-
-Please append it to all of your API requests,
-
-OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=a6d427ed
-
-Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=9e5d766d-10ef-41dd-b973-e4734c924530
-If you did not make this request, please disregard this email.
